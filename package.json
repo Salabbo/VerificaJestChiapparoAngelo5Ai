@@ -1,0 +1,16 @@
+{
+  "name": "chiapparojest",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "sum.js",
+  "dependencies": {
+    "expr-eval": "^2.0.2",
+    "jest": "^29.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "me",
+  "license": "ISC"
+}
